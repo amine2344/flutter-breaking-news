@@ -76,7 +76,7 @@ dev_dependencies:
   build_runner: ^2.4.7
 
   # Automatically generate code for converting to and from JSON by annotating Dart classes.
-  json_serializable: ^6.7.1
+  json_serializable: ^3.0.1
 
   # The Font Awesome Icon pack available as Flutter Icons.
   font_awesome_flutter: ^9.2.0
